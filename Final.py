@@ -1,7 +1,9 @@
 # Word-Game-Final-Project
 
 # CSC 280 Final Project
-#
+
+#>>PYTHON 2.7<<!!! <- Just incase you try to run it on your laptop Justin
+
 # Word Game
 # Created by: Kevin Luu <luuk> and Jenna Wiens <jwiens>
 # Modifieed by Bei Xiao <bxiao>
